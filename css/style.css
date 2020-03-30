@@ -3,7 +3,7 @@
   --secondary-color:#dfdfdf;
   --light-color:#f3f3f3;
   --dark-color:#333;
-  max-width: 1100px;
+  --max-width: 1100px;
 }
 
 .category {
